@@ -4,7 +4,8 @@ SCRAMBLE is Google Maps for disasters, AI that dynamically evacuates millions in
 
 ## Project info
 
-**URL**: 
+**URL**: https://scrambleai.lovable.app
+
 
 ##  Inspiration
 The sirens rang.
